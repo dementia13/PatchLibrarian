@@ -18,10 +18,10 @@ implementing data structures.</p>
 
 <h2>Table of Contents</h2>
 	<ul>
-		<li><a id = "Install">Install</a></li>
-		<li><a id = "Usage">Usage</a></li>
-		<li><a id = "Contrib">Contribute</a></li>
-		<li><a id = "Lic">License</a></li>
+		<li><a href = "#Install">Install</a></li>
+		<li><a href = "#Usage">Usage</a></li>
+		<li><a href = "#Contrib">Contribute</a></li>
+		<li><a href = "#Lic">License</a></li>
 	</ul>
 
 <h2 id="Install">Install</h2>
